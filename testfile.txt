@@ -9,3 +9,5 @@ edit by coder B
 edit by coder A
 
 edit by coder C
+
+已经设置好SSH key，以后就不要密码登录了，yeah~
